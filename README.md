@@ -1,16 +1,9 @@
 # assignment1
+Some screenshots of my output taken from the emulator
+1
+![Alt text](https://github.com/Anujit-Datta/assignment1/blob/master/asset/asignment%201%20ss%201.png?raw=true)
+2
+![Alt text](https://github.com/Anujit-Datta/assignment1/blob/master/asset/assignment%201%20ss%202.png?raw=true)
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
