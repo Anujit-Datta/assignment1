@@ -371,7 +371,13 @@ class _HomePageState extends State<HomePage> {
                     height: MediaQuery.of(context).orientation==Orientation.portrait?10:0,
                   ),
                   MaterialButton(
-                    onPressed: () {},
+                    onPressed: () {
+                      ScaffoldMessenger.of(context).showSnackBar(
+                        SnackBar(
+                          content: Text('Congratulations🎉  Order placed successfully.'),
+                        ),
+                      );
+                    },
                     color: Colors.red,
                     shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(40)),
