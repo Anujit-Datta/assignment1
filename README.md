@@ -2,9 +2,9 @@
 Some screenshots of my output taken from the emulator
 
 1
-![Alt text](https://github.com/Anujit-Datta/assignment1/blob/master/asset/asignment%201%20ss%201.png?raw=true)
+![Alt text](https://github.com/Anujit-Datta/assignment1/blob/master/Screenshot%20from%202025-10-19%2000-21-15.png)
 2
-![Alt text](https://github.com/Anujit-Datta/assignment1/blob/master/asset/assignment%201%20ss%202.png?raw=true)
+![Alt text](https://github.com/Anujit-Datta/assignment1/blob/master/Screenshot%20from%202025-10-19%2000-21-38.png?raw=true)
 
 
 
